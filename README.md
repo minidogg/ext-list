@@ -1,2 +1,2 @@
 # ext-list
-List of Chrome extension web accessible resources and their corresponding name and icon information.
+List of Chrome extension IDs and some corresponding information.
