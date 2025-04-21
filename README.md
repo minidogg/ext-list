@@ -1,2 +1,2 @@
 # ext-list
-List of Chrome extension IDs and some corresponding information.
+List of Chrome extension IDs and some corresponding information. Source code coming soon!
